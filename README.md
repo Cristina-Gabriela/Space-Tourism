@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<a href="mailto:mmastrangelo1120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></img></a>
-<a href="https://www.discord.com/users/734087835472232559/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
 # Space tourism website
 
 🪐My solution for the famous frontend-mentor challenge "Space tourism", made with react, JS and CSS in NextJS. This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
